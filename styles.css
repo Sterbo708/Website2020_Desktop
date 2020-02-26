@@ -1,0 +1,103 @@
+/*Attributes*/
+h1, h2, h3, h4, h5, h6 {
+  color: #FA884E;
+}
+
+p {
+  color: #FA884E;
+}
+
+footer {
+  text-align: center;
+}
+
+.body_stuff {
+  background-color: #181615;
+}
+
+/* classes*/
+.logo {
+  text-align: center;
+}
+
+.tagline {
+  text-align: center;
+}
+
+.left_blank {
+  position: relative;
+  float: left;
+  /* margin: auto;
+  right: 25%; */
+  width: 700px;
+  height: 500px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+
+/* .right_blank {
+  float: right;
+  position: absolute;
+  left: 90%;
+} */
+
+
+.action_call {
+  position: relative;
+}
+
+
+.quote_text {
+  margin-top: 700px;
+  text-align: center;
+}
+
+/*Bootstrap classes*/
+.btn {
+  float: right;
+  right: 50%;
+}
+
+.fab {
+  margin: 50px;
+  align-items: center;
+}
+
+.dropdown-item {
+  /* background-color: #FA884E; */
+}
+
+.card-img-top {
+  text-align: center;
+}
+
+.card {
+  background-color: inherit;
+  transition: background-color 1.0s;
+}
+ .card :hover {
+   background-color: #FAC3A7;
+ }
+
+/*Button classes*/
+/* .music_button {
+  margin: 40px;
+}
+
+.webdev_button {
+  margin: 40px;
+}
+
+.capture_button {
+  margin: 40px;
+}
+
+.developer_button {
+  margin: 40px;
+}
+
+.personal_button {
+  margin: 40px;
+} */
