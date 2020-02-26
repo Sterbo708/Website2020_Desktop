@@ -24,6 +24,10 @@ footer {
   text-align: center;
 }
 
+.sterbo_logo {
+
+}
+
 .left_blank {
   position: relative;
   float: left;
@@ -34,7 +38,6 @@ footer {
   margin-right: 20px;
   margin-top: 20px;
   margin-left: 20px;
-
 }
 
 /* .right_blank {
@@ -42,15 +45,13 @@ footer {
   position: absolute;
   left: 90%;
 } */
-
-
 .action_call {
   position: relative;
+  text-align: center;
 }
 
-
 .quote_text {
-  margin-top: 700px;
+  margin-top: 200px;
   text-align: center;
 }
 
@@ -77,10 +78,11 @@ footer {
   background-color: inherit;
   transition: background-color 1.0s;
 }
- .card :hover {
-   background-color: #FAC3A7;
- }
 
+.card :hover {
+  background-color: #FAC3A7;
+  text-decoration: none;
+}
 /*Button classes*/
 /* .music_button {
   margin: 40px;
