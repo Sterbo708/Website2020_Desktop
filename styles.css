@@ -13,7 +13,7 @@ a {
 
 footer {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 75px;
 }
 
 .body_stuff {
@@ -73,25 +73,26 @@ footer {
 .music_ep {
   position: relative;
   top: 100px;
-  margin-right: 450px;
+  /* margin-right: 100px; */
 }
 
 .music_sonic {
   position: relative;
   top: 50px;
-  margin-right: 200px;
+  /* margin-right: 200px; */
 }
 
 .music_remix {
+  align-items: center;
   position: relative;
   top: 0px;
-  margin-left: 300px;
+  /* margin-left: 200px; */
 }
 
 .music_film {
   position: relative;
   top: 100px;
-  margin-right: 100px;
+  /* margin-right: 100px; */
 }
 
 .frames {
