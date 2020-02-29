@@ -7,12 +7,17 @@ p {
   color: #FA884E;
 }
 
+a {
+  color: #2c9bd6;
+}
+
 footer {
   text-align: center;
+  margin-top: 100px;
 }
 
 .body_stuff {
-  background-color: #181615;
+  background-color: black;
 }
 
 /* classes*/
@@ -20,12 +25,23 @@ footer {
   text-align: center;
 }
 
+.home_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* position: absolute;
+  margin: 50px;
+  align-items: center; */
+}
+
 .tagline {
   text-align: center;
 }
 
-.sterbo_logo {
-
+.sterbo_mark {
+  max-width: 100%;
+  height: auto;
+  margin-left: 50px;
 }
 
 .left_blank {
@@ -40,25 +56,64 @@ footer {
   margin-left: 20px;
 }
 
-/* .right_blank {
-  float: right;
-  position: absolute;
-  left: 90%;
-} */
 .action_call {
   position: relative;
   text-align: center;
 }
 
 .quote_text {
-  margin-top: 200px;
   text-align: center;
+  margin-top: 20px;
+}
+
+.music_all {
+  text-align: center;
+}
+
+.music_ep {
+  position: relative;
+  top: 100px;
+  margin-right: 450px;
+}
+
+.music_sonic {
+  position: relative;
+  top: 50px;
+  margin-right: 200px;
+}
+
+.music_remix {
+  position: relative;
+  top: 0px;
+  margin-left: 300px;
+}
+
+.music_film {
+  position: relative;
+  top: 100px;
+  margin-right: 100px;
+}
+
+.frames {
+  padding: 10px;
+  border: 50px;
 }
 
 /*Bootstrap classes*/
 .btn {
-  float: right;
+  align-items: center;
   right: 50%;
+}
+
+.btn-outline-warning {
+  color: #FA884E;
+  border-color: #FA884E;
+  margin: 50px;
+}
+
+.btn-outline-warning:hover {
+  background-color: #2c9bd6;
+  border-color: #2c9bd6;
 }
 
 .fab {
@@ -83,23 +138,3 @@ footer {
   background-color: #FAC3A7;
   text-decoration: none;
 }
-/*Button classes*/
-/* .music_button {
-  margin: 40px;
-}
-
-.webdev_button {
-  margin: 40px;
-}
-
-.capture_button {
-  margin: 40px;
-}
-
-.developer_button {
-  margin: 40px;
-}
-
-.personal_button {
-  margin: 40px;
-} */
