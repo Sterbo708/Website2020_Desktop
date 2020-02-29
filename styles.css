@@ -13,6 +13,7 @@ a {
 
 footer {
   text-align: center;
+  margin-top: 100px;
 }
 
 .body_stuff {
@@ -55,11 +56,6 @@ footer {
   margin-left: 20px;
 }
 
-/* .right_blank {
-  float: right;
-  position: absolute;
-  left: 90%;
-} */
 .action_call {
   position: relative;
   text-align: center;
@@ -67,6 +63,40 @@ footer {
 
 .quote_text {
   text-align: center;
+  margin-top: 20px;
+}
+
+.music_all {
+  text-align: center;
+}
+
+.music_ep {
+  position: relative;
+  top: 100px;
+  margin-right: 450px;
+}
+
+.music_sonic {
+  position: relative;
+  top: 50px;
+  margin-right: 200px;
+}
+
+.music_remix {
+  position: relative;
+  top: 0px;
+  margin-left: 300px;
+}
+
+.music_film {
+  position: relative;
+  top: 100px;
+  margin-right: 100px;
+}
+
+.frames {
+  padding: 10px;
+  border: 50px;
 }
 
 /*Bootstrap classes*/
@@ -108,24 +138,3 @@ footer {
   background-color: #FAC3A7;
   text-decoration: none;
 }
-
-/*Button classes*/
-/* .music_button {
-  margin: 40px;
-}
-
-.webdev_button {
-  margin: 40px;
-}
-
-.capture_button {
-  margin: 40px;
-}
-
-.developer_button {
-  margin: 40px;
-}
-
-.personal_button {
-  margin: 40px;
-} */
