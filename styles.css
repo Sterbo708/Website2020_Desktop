@@ -66,6 +66,23 @@ footer {
   margin-top: 20px;
 }
 
+.bio_image {
+  position: relative;
+  width: 400px;
+  height: auto;
+}
+.bio_text {
+  text-align: center;
+}
+
+.capture_body {
+text-align: center;
+}
+
+.capture_text {
+  text-align: center;
+}
+
 .music_all {
   text-align: center;
 }
