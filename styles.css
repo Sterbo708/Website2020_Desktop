@@ -1,10 +1,12 @@
 /*Attributes*/
 h1, h2, h3, h4, h5, h6 {
-  color: #FA884E;
+  /* color: #FA884E; */
+  color: #8E44AD;
 }
 
 p {
-  color: #FA884E;
+  /* color: #FA884E; */
+  color: #8E44AD;
 }
 
 a {
@@ -17,7 +19,8 @@ footer {
 }
 
 .body_stuff {
-  background-color: black;
+  /* background-color: black; */
+  background-color: #76D7C4
 }
 
 /* classes*/
@@ -70,9 +73,17 @@ footer {
   position: relative;
   width: 400px;
   height: auto;
+  float: left;
+  margin: 10px 50px 50px 10px;
 }
 .bio_text {
   text-align: center;
+  margin: 10px 50px 100px 50px;
+}
+.about_footer_text {
+  position: relative;
+  text-align: center;
+  margin-top: 100px;
 }
 
 .capture_body {
@@ -81,6 +92,9 @@ text-align: center;
 
 .capture_text {
   text-align: center;
+}
+
+.card_image {
 }
 
 .music_all {
@@ -117,6 +131,8 @@ text-align: center;
   border: 50px;
 }
 
+
+
 /*Bootstrap classes*/
 .btn {
   align-items: center;
@@ -124,8 +140,10 @@ text-align: center;
 }
 
 .btn-outline-warning {
-  color: #FA884E;
-  border-color: #FA884E;
+  /* color: #FA884E; */
+  color: #8E44AD;
+  /* border-color: #FA884E; */
+  border-color: #8E44AD;
   margin: 50px;
 }
 
