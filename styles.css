@@ -131,7 +131,10 @@ text-align: center;
   border: 50px;
 }
 
-
+.banana_screens {
+  width: 30%;
+  height: 30%;
+}
 
 /*Bootstrap classes*/
 .btn {
@@ -162,12 +165,28 @@ text-align: center;
 }
 
 .card-img-top {
-  text-align: center;
+  text-align: center; 
 }
 
 .card {
   background-color: inherit;
   transition: background-color 1.0s;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-roli {
+  text-align: center;
+}
+
+.card-banana {
+  text-align: center;
+}
+
+.card-body {
+  text-align: center;
 }
 
 .card :hover {
