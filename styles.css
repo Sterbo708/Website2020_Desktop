@@ -138,6 +138,16 @@ text-align: center;
   height: 30%;
 }
 
+/* .roli_window {
+  width: 75%;
+  height: 75%;
+} */
+
+.gray_page {
+  width: 30%;
+  height: 30%;
+}
+
 /*Bootstrap classes*/
 .btn {
   align-items: center;
