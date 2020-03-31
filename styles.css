@@ -1,12 +1,16 @@
 /*Attributes*/
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
   /* color: #FA884E; */
   color: #8E44AD;
 }
 
-p {
+p, h5, h6 {
   /* color: #FA884E; */
-  color: #8E44AD;
+/* Hector color change */
+/* color: #FAF7FC; */
+
+color: black;
+  /* color: #8E44AD; */
 }
 
 a {
@@ -78,7 +82,7 @@ footer {
   margin: 10px 50px 50px 10px;
 }
 .bio_text {
-  text-align: center;
+  text-align: left;
   margin: 10px 50px 100px 50px;
 }
 .about_footer_text {
@@ -176,10 +180,14 @@ text-align: center;
   /* background-color: #FA884E; */
 }
 
+
+.dev_text{
+  padding-left: 150px;
+  padding-right: 150px
+}
+
 .card-img-top {
   text-align: center;
-
-
 }
 
 .card {
