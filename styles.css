@@ -17,10 +17,33 @@ a {
   color: #2c9bd6;
 }
 
+body {
+  animation: transitionIn 0.75s;
+}
 footer {
   text-align: center;
   margin-top: 75px;
 }
+
+
+/* Transition Trial Start*/
+
+
+@keyframes transitionIn {
+
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+/* Transition Trial End*/
+
 
 .body_stuff {
   /* background-color: black; */
@@ -194,6 +217,11 @@ text-align: center;
   background-color: inherit;
   transition: background-color 1.0s;
   display: flex;
+}
+
+.card-deck {
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .card-header {
