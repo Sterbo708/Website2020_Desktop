@@ -22,7 +22,7 @@ body {
 }
 footer {
   text-align: center;
-  margin-top: 75px;
+  margin-top: 60px;
 }
 
 
@@ -65,12 +65,16 @@ footer {
   align-items: center; */
 }
 
+.footer_links {
+  margin-top: 30px;
+}
+
 .tagline {
   text-align: center;
 }
 
 .sterbo_mark {
-  max-width: 100%;
+  width: 20%;
   height: auto;
   margin-left: 50px;
 }
@@ -94,7 +98,7 @@ footer {
 
 .quote_text {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .bio_image {
@@ -122,10 +126,6 @@ text-align: center;
   text-align: center;
 }
 
-.erasodes_artwork {
-
-}
-
 .music_all {
   text-align: center;
 }
@@ -145,7 +145,6 @@ text-align: center;
 .music_remix {
   align-items: center;
   position: relative;
-  top: 0px;
   /* margin-left: 200px; */
 }
 
