@@ -166,6 +166,12 @@ text-align: center;
   height: 30%;
 }
 
+.dev_demo{
+  text-align: center;
+  width: 75%;
+  height: auto;
+}
+
 /* .roli_window {
   width: 75%;
   height: 75%;
@@ -211,8 +217,8 @@ text-align: center;
 
 
 .dev_text{
-  padding-left: 150px;
-  padding-right: 150px
+  padding-left: 25px;
+  padding-right: 25px
 }
 
 .card-img-top {
@@ -223,6 +229,7 @@ text-align: center;
   background-color: inherit;
   transition: background-color 1.0s;
   display: flex;
+  text-align: center;
 }
 
 .card-deck {
@@ -253,6 +260,10 @@ text-align: center;
 
 .navbar-brand {
   display: contents;
+}
+
+.nav-link {
+  font-family: 'Muli', sans-serif;
 }
 
 
