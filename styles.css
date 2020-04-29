@@ -2,6 +2,7 @@
 h1, h2, h3, h4 {
   /* color: #FA884E; */
   color: #8E44AD;
+  font-family: 'Muli', sans-serif;
 }
 
 p, h5, h6 {
@@ -11,6 +12,7 @@ p, h5, h6 {
 
 color: black;
   /* color: #8E44AD; */
+  font-family: 'Muli', sans-serif;
 }
 
 a {
