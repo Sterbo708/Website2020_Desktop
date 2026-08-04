@@ -1,7 +1,7 @@
 /*Attributes*/
 h1, h2, h3, h4 {
   /* color: #FA884E; */
-  color: #8E44AD;
+  color: #ffffff;
   font-family: 'Muli', sans-serif;
 }
 
@@ -21,6 +21,7 @@ a {
 
 body {
   animation: transitionIn 0.75s;
+  color: #ffffff
 }
 footer {
   text-align: center;
