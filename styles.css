@@ -259,7 +259,7 @@ text-align: center;
   display: contents;
 }
 
-.nav-link {
+.nav-link .nav-item{
   font-family: 'Muli', sans-serif;
   color: white;
 }
