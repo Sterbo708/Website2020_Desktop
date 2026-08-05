@@ -254,19 +254,15 @@ text-align: center;
   background-color: #FAC3A7;
   text-decoration: none;
 }
-
+/* Navbar Trial Stuff */
 .navbar-brand {
   display: contents;
 }
 
 .nav-link .nav-item{
   font-family: 'Muli', sans-serif;
-  color: white;
 }
-.navbar-light .navbar-nav {
-  color: white;
-}
-/* Navbar Trial Stuff */
+
 
 /* Icon 1 */
 
