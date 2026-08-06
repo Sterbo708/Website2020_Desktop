@@ -262,9 +262,9 @@ text-align: center;
   color:#e65100
 }
 
-.navbar-light .navbar-nav .nav-link,
-.navbar-dark .navbar-nav .nav-link {
-  color: #FA884E; 
+.navbar-light .navbar-nav .nav-item.active > .nav-link,
+.navbar-dark .navbar-nav .nav-item.active > .nav-link {
+  color: #FA884E; /* Or your preferred active link color */
 }
 
 /* Icon 1 */
