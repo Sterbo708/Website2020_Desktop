@@ -257,14 +257,10 @@ text-align: center;
   color: #e65100
 }
 
-.nav-link .navbar-light .navbar-nav .nav-item .action {
-  font-family: 'Muli', sans-serif;
-  color:#e65100
-}
-
 .navbar-light .navbar-nav .nav-item.active > .nav-link,
 .navbar-dark .navbar-nav .nav-item.active > .nav-link {
   color: #FA884E; /* Or your preferred active link color */
+  font-family: 'Muli', sans-serif;
 }
 
 /* Icon 1 */
