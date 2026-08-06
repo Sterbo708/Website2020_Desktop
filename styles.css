@@ -26,9 +26,7 @@ footer {
   /* margin-top: 60px; */
 }
 
-
 /* Transition Trial Start*/
-
 
 @keyframes transitionIn {
 
@@ -44,7 +42,6 @@ footer {
 }
 
 /* Transition Trial End*/
-
 
 .body_stuff {
   /* background-color: black; */
@@ -251,7 +248,7 @@ text-align: center;
 }
 
 .card :hover {
-  background-color: #FAC3A7;
+  background-color: #d67c0d;
   text-decoration: none;
 }
 /* Navbar Trial Stuff */
@@ -265,6 +262,10 @@ text-align: center;
   color:#e65100
 }
 
+.navbar-light .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link {
+  color: #FA884E; 
+}
 
 /* Icon 1 */
 
